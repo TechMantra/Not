@@ -2,7 +2,7 @@
 
 ## Install
 ### Using the Binaries
-Get the latest release. Copy the binary wherever you want and add it to your path.
+Get the [latest release](https://github.com/TechMantra/Not/releases/download/0.0.1/not). Copy the binary wherever you want and add it to your PATH.
 
 ### From Source
 Clone the repo and launch the Not.xcodeproj. Then build and Enjoy.
