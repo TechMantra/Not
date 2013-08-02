@@ -7,6 +7,11 @@ Get the latest release. Copy the binary wherever you want and add it to your pat
 ### From Source
 Clone the repo and launch the Not.xcodeproj. Then build and Enjoy.
 
+## TODO
+* Add Streaming support. The output of a command execution should be streamed.
+* Add colors support. The colors somehow disappear. Weird
+* Move from a command line project to an app. So it can have an installer and more control over the notifications. 
+
 ## Contributing
 Every contribution is welcome.
 
