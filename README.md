@@ -1,5 +1,4 @@
-# Not
-The terminal notifier.
+# Not: The terminal notifier.
 ===
 
 ## Install
