@@ -1,4 +1,4 @@
-# Not: The terminal notifier.
+# Not
 
 ## Install
 ### Using the Binaries
